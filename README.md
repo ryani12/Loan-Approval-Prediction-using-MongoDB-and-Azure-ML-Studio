@@ -19,7 +19,7 @@ To run this project, you need the following:
 
 - A **MongoDB Atlas** cluster for data storage.
 - **Azure ML Studio** setup for model training.
-- **Python* and the following libraries:
+- **Python** and the following libraries:
   - `pandas`
   - `numpy`
   - `sklearn`
