@@ -26,7 +26,7 @@ To run this project, you need the following:
   - `pymongo`
   - `joblib`
  
-  ## Results
+## Results
 
 - **Logistic Regression Accuracy**: 80.48% (after hyperparameter tuning)
 - **Support Vector Classifier (SVC) Accuracy**: 80.66% (after hyperparameter tuning)
